@@ -1,0 +1,25 @@
+{
+  "name": "contact-list-mean-app",
+  "version": "1.0.0",
+  "description": "A simple contact list MEAN Stack app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AviroopBasu/Contact-List-MEAN-App.git"
+  },
+  "author": "AviroopBasu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AviroopBasu/Contact-List-MEAN-App/issues"
+  },
+  "homepage": "https://github.com/AviroopBasu/Contact-List-MEAN-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5"
+  }
+}
